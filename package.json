@@ -1,0 +1,38 @@
+{
+  "name": "@cyandesign/core",
+  "version": "3.0.0",
+  "description": "The core Tailwind stylesheet for creating interfaces using Cyan",
+  "homepage": "https://github.com/CyanDesign/Core#readme",
+  "bugs": {
+    "url": "https://github.com/CyanDesign/Core/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyanDesign/Core.git"
+  },
+  "license": "MIT",
+  "author": "CyanDesign",
+  "type": "commonjs",
+  "exports": {
+    ".": "./index.css",
+    "./package.json": "./package.json",
+    "./index.css": "./index.css",
+    "./index": "./index.css",
+    "./animations.css": "./animations.css",
+    "./animations": "./animations.css",
+    "./theme.css": "./theme.css",
+    "./theme": "./theme.css",
+    "./utilities.css": "./utilities.css",
+    "./utilities": "./utilities.css"
+  },
+  "style": "index.css",
+  "files": [
+    "index.css",
+    "animations.css",
+    "theme.css",
+    "utilities.css"
+  ],
+  "devDependencies": {
+    "tailwindcss": "^4.0.15"
+  }
+}
