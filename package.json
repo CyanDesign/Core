@@ -1,6 +1,6 @@
 {
   "name": "@cyandesign/core",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "The core Tailwind stylesheet for creating interfaces using Cyan",
   "homepage": "https://github.com/CyanDesign/Core#readme",
   "bugs": {
