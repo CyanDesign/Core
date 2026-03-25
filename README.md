@@ -1,12 +1,9 @@
 # Cyan Core - The core Tailwind V4 stylesheets to implement the Cyan interface
 
 ## Installing
-~~npm install @cyandesign/core~~
-
-> [!IMPORTANT]
->
-> Intalling as a module is not yet possible, due to some complications with my NPM account, this readme will be updated as soon as the issue is resolved. You should instead add this repo as a git submodule to your project (considering you are using git), or just download the repo source and extract the files into a folder in your repo, then change `@cyandesign/core` with `./<name-of-the-folder>`
-
+```bash
+pnpm add https://github.com/CyanDesign/Core.git
+```
 
 To use, import in your main stylesheet:
 ```css
