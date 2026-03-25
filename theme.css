@@ -77,8 +77,8 @@
     --animate-user-area-container: animate-user-area-container 0.4s ease;
     --color-first-layer: var(--cyan-background-primary);
     --blur-normal: var(--cyan-blur);
-    --shadow-cyan: var(--cyan-interface-shadow), inset 0 1px 0 var(--cyan--color-faint);
-    --shadow-glass: inset 0 1px 0 var(--cyan--color-faint);
+    --shadow-cyan: var(--cyan-interface-shadow), inset 0 1px 0 var(--cyan-color-faint);
+    --shadow-glass: inset 0 1px 0 var(--cyan-color-faint);
     --radius-xl: 20px;
     --radius-round-interface: 50px;
     --radius-interface: 24px;
